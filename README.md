@@ -1,4 +1,6 @@
+Tareas Subidas, donde se puede marcar como hecha
 ![](https://github.com/Payacucha/react/blob/main/public/actividades.png)
+Se puede eliminar las tareas
 ![](https://github.com/Payacucha/react/blob/main/public/delete.png)
 
 # Getting Started with Create React App
