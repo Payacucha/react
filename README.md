@@ -1,4 +1,5 @@
-[delete.png]
+![](https://github.com/Payacucha/react/blob/main/public/actividades.png)
+![](https://github.com/Payacucha/react/blob/main/public/delete.png)
 
 # Getting Started with Create React App
 
